@@ -46,7 +46,7 @@ function App() {
     {
       title: 'Predictive Maintenance Platform',
       status: 'Completed',
-      description: ' [An Training Intership Project] Python-based predictive maintenance system capable of handling file uploads and executing predictive scripts, intended for future deployment on the web.',
+      description: ' [A Training + Intership Project] Python-based predictive maintenance system capable of handling file uploads and executing predictive scripts, intended for future deployment on the web.',
       tech: ['Python', 'Flask', 'Machine Learning', 'File Processing'],
       link:'https://github.com/IRX358/Predict_M_Sys',
       color: 'from-purple-500 to-pink-600'
@@ -357,12 +357,13 @@ function App() {
             <h2 className="text-4xl md:text-5xl font-bold mb-6">Certifications </h2>
           </div>
 
-          <div className="flex gap-20">
+          <div className="grid md:grid-cols-2 lg:grid-cols-5 gap-6">
             {[
               'Full Stack Web Dev [freecodecamp] ',
               'Accenture - Job Simulation [Forage] ',
               'Responsive Web Dev [freecodecamp] ',
-              'Deloite - Cyber Job Simulation [Forage] '
+              'Deloite - Cyber Job Simulation [Forage] ',
+              'Data Science Begginer [SoloLearn] '
             ].map((certi, index) => (
               <div key={index} className="bg-slate-800/50 backdrop-blur-sm border border-slate-700 rounded-xl p-6 text-center hover:border-cyan-500/50 transition-all duration-300">
                 
