@@ -57,7 +57,7 @@ The production build will appear in the dist/ folder.
 
 This project is deployed on GitHub Pages:
 
-🌐<a traget="_blank" href="https://IRX358.github.io/Protfolio_web_ir/"> View Live</a>
+🌐<a href="https://IRX358.github.io/Protfolio_web_ir/" target='_blank' > View Live</a>
 
 
 ---
@@ -79,9 +79,9 @@ This project is deployed on GitHub Pages:
 
 🤝 Connect
 
-🐙 GitHub: <a href="https://github.com/IRX358">IRX358</a>
+🐙 GitHub: <a href="https://github.com/IRX358" target='_blank'>IRX358</a>
 
-💼 LinkedIn: <a href="https://www.linkedin.com/in/irfan-basha-396b97282/"> Irfan Basha </a>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/irfan-basha-396b97282/" target='_blank'> Irfan Basha </a>
 
 ---
 
